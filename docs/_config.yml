@@ -33,3 +33,5 @@ share-links-active:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+theme: jekyll-theme-cayman
