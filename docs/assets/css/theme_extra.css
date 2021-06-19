@@ -1,0 +1,6 @@
+@import 'theme_extra.css';
+
+html, body {
+  height: 100%;
+  background-color: aquamarine;
+}
