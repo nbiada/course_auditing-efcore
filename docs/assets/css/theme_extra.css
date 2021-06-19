@@ -4,6 +4,6 @@ html, body {
   height: 100%;
   background-color: aquamarine;
 }
-.wy-body-for-nav, .wy-nav-content {
+.wy-body-for-nav, .wy-nav-shift, .wy-nav-content {
   height: 100%;
 }
