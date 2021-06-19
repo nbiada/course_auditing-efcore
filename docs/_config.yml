@@ -35,8 +35,8 @@ share-links-active:
 # paginate: 5
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-paginate
+#  - jekyll-sitemap
   - jekyll-remote-theme
 
 theme: jekyll-theme-cayman
