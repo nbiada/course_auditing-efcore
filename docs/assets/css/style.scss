@@ -1,0 +1,13 @@
+--- 
+--- 
+
+@import "{{ site.remote_theme }}";
+
+html, body {
+  height: 100%;
+  background-color: aquamarine;
+}
+// body {
+//   display: flex;
+//   flex-direction: column;
+// }
