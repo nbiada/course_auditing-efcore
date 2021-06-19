@@ -1,5 +1,5 @@
 ---
-# title: Index
+title: Auditing for EF Core with .net 5
 nav_order: 1
 ---
 # Auditing for EF Core with .net 5
