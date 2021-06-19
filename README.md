@@ -1,4 +1,4 @@
-# Blazor Enterprise
+# Auditing with EF Core in .net 5
 
-Course Website for Blazor Enterprise - _BLZ-ENT-01 Autumn 2020_
-https://nbiada.github.io/course_blazorenterprise/
+How to enable database table auditing with EF Core using DbContext
+https://nbiada.github.io/course_auditing-efcore/
