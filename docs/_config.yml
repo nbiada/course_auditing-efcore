@@ -1,5 +1,5 @@
-# remote_theme: carlosperate/jekyll-theme-rtd
-theme: jekyll-theme-cayman
+remote_theme: carlosperate/jekyll-theme-rtd
+# theme: jekyll-theme-cayman
 title: Auditing with EF Core in .net 5
 description: How to enable database table auditing 
 author: Nicola Biada
